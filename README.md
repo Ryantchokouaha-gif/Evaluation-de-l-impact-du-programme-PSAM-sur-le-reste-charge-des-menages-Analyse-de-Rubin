@@ -1,6 +1,6 @@
 # 📊 Évaluation de l'Impact du Programme PSAM sur les Dépenses de Santé des Ménages Ruraux
 
-> TD2 — La Causalité · Master 1 Économie Appliquée · Université Paris Cité  
+>  Master 1 Économie Appliquée · Université Paris Cité  
 > Auteur : Ryan Jordan TCHOKOUAHA TCHAHA · Année académique 2025–2026  
 > Source des données : `evaluation.dta` (IRDES)
 
